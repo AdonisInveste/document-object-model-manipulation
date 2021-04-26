@@ -1,0 +1,1 @@
+The DOM (or Document Object Model) is a tree-like representation of the contents of an interface.
